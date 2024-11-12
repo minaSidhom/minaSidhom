@@ -16,5 +16,5 @@
 
 <h3 align="left">💬 Connect with me:</h3>
 <h4 align="left">
-  you can find me on <a href="[Mina s.Sidhom](https://www.linkedin.com/in/mina-s-sidhom-889072288/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FgaxhwYjSCS%2B9yj%2FOhDOJQ%3D%3D)">linked in</a> , <a href="https://www.instagram.com/abdallashaban99?igsh=amd2M2ZuaWRydGln">instagram</a> and <a href="https://abdullah-madkour.vercel.app/">Portfolio</a>
+  you can find me on <a href="https://www.linkedin.com/in/mina-s-sidhom-889072288/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FgaxhwYjSCS%2B9yj%2FOhDOJQ%3D%3D">linked in</a> , <a href="https://www.instagram.com/abdallashaban99?igsh=amd2M2ZuaWRydGln">instagram</a> and <a href="https://abdullah-madkour.vercel.app/">Portfolio</a>
 </h5>
